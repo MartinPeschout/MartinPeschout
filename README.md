@@ -6,13 +6,9 @@ _Freelance Data Analyst | Python, SQL, Pandas, Power BI_
 
 ## 💼 Vybrané projekty
 
-- **Silver vs Inflation Analysis**  
-  Python · Pandas · Matplotlib • Analýza cen stříbra a inflace (2020–2024)  
-  Repository &rarr; [cena-stribra-v-čase](link)
-
-- **SQL projekt Engeto**  
-  SQL · datové dotazy · joiny • Reportovací sada pro mýtné sazby
-
+**Final_Project_ver2 – Výsledky parlamentních voleb 2017**  
+  🧮 Python · web scraping · CSV export  
+  Skript kompletně stahuje a zpracovává oficiální výsledky voleb, ukládá je do CSV pro další analýzu.
 ---
 
 ## ⚙️ Technologie & nástroje
