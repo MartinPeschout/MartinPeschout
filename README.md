@@ -12,6 +12,11 @@
 
 ## 💼 Vybrané projekty
 
+- **Silver vs. Inflation – Analýza vývoje ceny stříbra a inflace v ČR**  
+  📊 Python · Pandas · Matplotlib · Ekonomická analýza  
+  Projekt porovnává vývoj ceny stříbra s inflací v Česku v letech 2010–2025. Vizualizuje reálné zhodnocení stříbra očištěné o inflaci.  
+  [Repozitář →](https://github.com/MartinPeschout/Silver-vs-Inflation-Analysis)
+
 - **Final_Project_ver2 – Výsledky parlamentních voleb 2017**  
   🧮 Python · web scraping · CSV export  
   Skript extrahuje a zpracovává oficiální výsledky voleb, ukládá je do CSV. [Repozitář →](https://github.com/MartinPeschout/Final_Project_ver2)
